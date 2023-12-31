@@ -13,3 +13,13 @@
   }
 }
 
+#header{
+  width:100%;
+  text-align:center;
+  border:1px solid grey;
+}
+img{
+  display:inline-block;
+  height:50px;
+  margin: 0 auto;
+}
